@@ -1,6 +1,6 @@
  
 
------------------------                  | ------------------------------------
-[Example Playbook](example-playbook.md)  |  [Efficiency and Performance Playbook](Efficiency-and-Performance-playbook.md)
+----------------------------------------- | --------------------------------------------------------------------------------
+[Example Playbook](example-playbook.md)   |  [Efficiency and Performance Playbook](Efficiency-and-Performance-playbook.md)
 
------------------------------------------ |------------------------------------
+----------------------------------------- | ---------------------------------------------------------------------------------
