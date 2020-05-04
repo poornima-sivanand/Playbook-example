@@ -3,7 +3,8 @@ Example:
 
 
 Security: 
+> Security Playbook
 
-Effeciency and Performance: 
+Efficiency and Performance: 
 > [Efficiency and Performance Playbook](https://github.com/poornima-sivanand/Efficiency-and-Performance/blob/master/Efficiency-and-Performance-playbook.md)
 
