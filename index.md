@@ -1,3 +1,1 @@
-# Playbook - An Example 
-
-## Introduction 
+# (An Example Playbook)[]
